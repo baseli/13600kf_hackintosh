@@ -17,6 +17,10 @@
 
 ## 黑苹果展示
 
+### 关于本机
+
+![](img/about.jpg)
+
 ### CPU 
 
 #### GeekBench5
